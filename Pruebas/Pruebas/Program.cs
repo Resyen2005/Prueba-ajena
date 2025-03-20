@@ -35,7 +35,7 @@ public class CircularDoublyLinkedList
         {
             this.tail = nuevoNodo;
             this.tail.next = tail;
-            this.tail.prev = nuevoNodo; // Corregido: Cambiar "Nue" a "nuevoNodo"
+            this.tail.prev = nuevoNodo; // Corregido: Cambiar "Nue" a "nuevoNodo".
         }
         else
         {
