@@ -1,0 +1,15 @@
+C:\Users\RESYEN\OneDrive\Documents\GitHub\Prueba-ajena\Pruebas\Doble\bin\Debug\net8.0\Simple.exe
+C:\Users\RESYEN\OneDrive\Documents\GitHub\Prueba-ajena\Pruebas\Doble\bin\Debug\net8.0\Simple.deps.json
+C:\Users\RESYEN\OneDrive\Documents\GitHub\Prueba-ajena\Pruebas\Doble\bin\Debug\net8.0\Simple.runtimeconfig.json
+C:\Users\RESYEN\OneDrive\Documents\GitHub\Prueba-ajena\Pruebas\Doble\bin\Debug\net8.0\Simple.dll
+C:\Users\RESYEN\OneDrive\Documents\GitHub\Prueba-ajena\Pruebas\Doble\bin\Debug\net8.0\Simple.pdb
+C:\Users\RESYEN\OneDrive\Documents\GitHub\Prueba-ajena\Pruebas\Doble\obj\Debug\net8.0\Simple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RESYEN\OneDrive\Documents\GitHub\Prueba-ajena\Pruebas\Doble\obj\Debug\net8.0\Simple.AssemblyInfoInputs.cache
+C:\Users\RESYEN\OneDrive\Documents\GitHub\Prueba-ajena\Pruebas\Doble\obj\Debug\net8.0\Simple.AssemblyInfo.cs
+C:\Users\RESYEN\OneDrive\Documents\GitHub\Prueba-ajena\Pruebas\Doble\obj\Debug\net8.0\Simple.csproj.CoreCompileInputs.cache
+C:\Users\RESYEN\OneDrive\Documents\GitHub\Prueba-ajena\Pruebas\Doble\obj\Debug\net8.0\Simple.sourcelink.json
+C:\Users\RESYEN\OneDrive\Documents\GitHub\Prueba-ajena\Pruebas\Doble\obj\Debug\net8.0\Simple.dll
+C:\Users\RESYEN\OneDrive\Documents\GitHub\Prueba-ajena\Pruebas\Doble\obj\Debug\net8.0\refint\Simple.dll
+C:\Users\RESYEN\OneDrive\Documents\GitHub\Prueba-ajena\Pruebas\Doble\obj\Debug\net8.0\Simple.pdb
+C:\Users\RESYEN\OneDrive\Documents\GitHub\Prueba-ajena\Pruebas\Doble\obj\Debug\net8.0\Simple.genruntimeconfig.cache
+C:\Users\RESYEN\OneDrive\Documents\GitHub\Prueba-ajena\Pruebas\Doble\obj\Debug\net8.0\ref\Simple.dll
